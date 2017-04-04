@@ -11,6 +11,9 @@
 // (e.g., pneumonoultramicroscopicsilicovolcanoconiosis)
 #define LENGTH 45
 
+//hash table size
+#define HASHTABLE_SIZE 30000
+
 /**
  * Returns true if word is in dictionary else false.
  */
